@@ -1,6 +1,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   font-family: "Poppins", sans-serif;
+  margin: 0;
 }
 .orange-color {
   color: orange;
@@ -34,6 +35,36 @@ section {
   padding-top: 5px;
 }
 .order-link {
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(tomato, orange);
+  border-radius: 34px;
+  padding: 20px;
+}
+.middle-section {
+  background-image: url(image/7.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+}
+h2 {
+  color: dimgray;
+  font-size: 30px;
+}
+#middle-women {
+  margin-left: 70px;
+  width: 34%;
+}
+#about-me {
+  padding: 99px;
+  line-height: 30px;
+  margin-left: 37px;
+}
+.middle-para {
+  margin-top: 38px;
+  margin-bottom: 54px;
+}
+.contact-link {
   text-decoration: none;
   color: white;
   background-image: linear-gradient(tomato, orange);
