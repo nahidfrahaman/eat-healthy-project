@@ -1,0 +1,42 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+.orange-color {
+  color: orange;
+}
+h1 {
+  color: dimgray;
+  font-size: 57px;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -2px;
+}
+.para-color {
+  color: dimgray;
+  margin-bottom: 41px;
+}
+
+section {
+  display: flex;
+  margin-top: 80px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 6%;
+}
+#top-banner-div {
+  padding-top: 100px;
+}
+.half-width img {
+  width: 89%;
+  padding-left: 0%;
+  padding-top: 5px;
+}
+.order-link {
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(tomato, orange);
+  border-radius: 34px;
+  padding: 20px;
+}
